@@ -1,7 +1,7 @@
 //  main.c
 //  SwitchStatment pracitce
 //  Created on 2/1/20.
-//  Copyright © 2020 Zaid Laffta. All rights reserved.
+
 
 #include <stdio.h>
 
